@@ -1,4 +1,4 @@
-##Hi there! 👋 I'm Guada
+##Hi there! 👋 I'm Guada##
 ###👩‍💻 Aspiring Programmer | High School Student | Dreaming in Code
 
 ####Welcome to my GitHub! I'm a 17-year-old enthusiast diving into the world of programming. 🌟
